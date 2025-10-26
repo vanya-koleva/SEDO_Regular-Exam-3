@@ -9,6 +9,8 @@ using Horizons.Data.Models;
 using Horizons.Models;
 using Horizons.Services;
 
+// Some comment
+
 namespace Horizons.UnitTests
 {
     [TestFixture]
